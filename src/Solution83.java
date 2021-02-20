@@ -3,6 +3,9 @@ import java.util.List;
 
 public class Solution83 {
 
+    //83: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+    //Runtime: 3 ms, faster than 24.02% of Java online submissions for Remove Duplicates from Sorted List.
+    //Memory Usage: 38.4 MB, less than 64.74% of Java online submissions for Remove Duplicates from Sorted List.
 
      public class ListNode {
          int val;
